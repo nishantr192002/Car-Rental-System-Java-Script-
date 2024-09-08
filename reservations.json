@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1725252122774,
+    "userId": 1,
+    "carId": 1,
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-09",
+    "totalPrice": 350
+  },
+  {
+    "id": 1725253044414,
+    "userId": 1,
+    "carId": 4,
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-25",
+    "totalPrice": 1050
+  },
+  {
+    "id": 1725358635168,
+    "userId": 1,
+    "carId": 2,
+    "startDate": "2024-09-26",
+    "endDate": "2024-09-30",
+    "totalPrice": 240
+  },
+  {
+    "id": 1725358669306,
+    "userId": 1,
+    "carId": 2,
+    "startDate": "2024-09-11",
+    "endDate": "2024-09-15",
+    "totalPrice": 240
+  }
+]

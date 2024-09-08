@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "Make": "Toyota",
+    "Model": "Corolla",
+    "Year": 2022,
+    "VIN": "1HGCM82633A123456",
+    "LicensePlate": "ABC123",
+    "AvailabilityStatus": "Available",
+    "PricePerDay": 50,
+    "Location": "New York",
+    "photos": [
+      "uploads\\photos\\1725206998465.jpg"
+    ],
+    "videos": [
+      "uploads\\videos\\1725207106631.mp4"
+    ],
+    "availabilityStatus": "unavailable"
+  },
+  {
+    "id": 2,
+    "Make": "Honda",
+    "Model": "Civic",
+    "Year": 2021,
+    "VIN": "2HGFB2F50FH123456",
+    "LicensePlate": "XYZ789",
+    "AvailabilityStatus": "Available",
+    "PricePerDay": 60,
+    "Location": "Sonipat",
+    "photos": [
+      "uploads\\photos\\1725207364411.jpg"
+    ],
+    "videos": [
+      "uploads\\videos\\1725207364415.mp4"
+    ],
+    "availabilityStatus": "unavailable"
+  },
+  {
+    "id": 3,
+    "Make": "Ford",
+    "Model": "Mustang",
+    "Year": 2019,
+    "VIN": "1FA6P8TH2K5154321",
+    "LicensePlate": "LMN456",
+    "AvailabilityStatus": "Unavailable",
+    "PricePerDay": 90,
+    "Location": "Bihar",
+    "photos": [
+      "uploads\\photos\\1725090672524.jpg"
+    ],
+    "videos": [
+      "uploads\\videos\\1725090766572.mp4"
+    ],
+    "availabilityStatus": "unavailable"
+  },
+  {
+    "id": 4,
+    "Make": "Toyota",
+    "Model": "Camry",
+    "Year": 2021,
+    "VIN": "1HGCM82633A123456",
+    "LicensePlate": "XYZ1234",
+    "AvailabilityStatus": "Available",
+    "PricePerDay": 50,
+    "Location": "New York",
+    "photos": [
+      "uploads\\photos\\1725207632777.jpeg"
+    ],
+    "videos": [
+      "uploads\\videos\\1725207632779.mp4"
+    ],
+    "availabilityStatus": "unavailable"
+  }
+]

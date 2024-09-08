@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "username": "Nishu",
+    "email": "nishu@gmail.com",
+    "password": "$2b$10$Fweq31e0nuJ3DrIGfQ5A5uBlj53GWgFPAUvb6ZJWMVMteE8ygjCJW"
+  },
+  {
+    "id": 2,
+    "username": "nirmit",
+    "email": "nirmitarora5@gmail.com",
+    "password": "$2b$10$F.vCKpHu56nZZYtUcA3UaeSID5C.z9XE4gHs0X0m/ccYqqCIbj2Ae"
+  },
+  {
+    "id": 3,
+    "username": "nirmit",
+    "email": "nirmit@gmail.com",
+    "password": "$2b$10$2GyuYZamJEh/I.4vY8Polew.kjuW14MMsFVV.BD42NLq0YSz7II26"
+  },
+  {
+    "id": 4,
+    "username": "sarang",
+    "email": "sarang@gmail.com",
+    "password": "$2b$10$57SoNPb8VlRVGGShVRtIR./jkkDDdspPcfB8jsl6x.wyEJNjehczi"
+  },
+  {
+    "id": 5,
+    "username": "arsh",
+    "email": "arsh@gmail.com",
+    "password": "$2b$10$2RVbn.49pAQTb1N7JoKLaeh65Epdn/epA8mk0ybvo8dl2u.7Zz0BS"
+  },
+  {
+    "id": 6,
+    "username": "vansh",
+    "email": "vansh@gmail.com",
+    "password": "$2b$10$Rci03kkR2QMByQfVCuFXF.YLichEgDjYIDviu0n32X8f1lNrEiB0C"
+  }
+]
